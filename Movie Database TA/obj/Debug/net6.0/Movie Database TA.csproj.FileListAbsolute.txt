@@ -1,0 +1,15 @@
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Movie Database TA\Movie Database TA\bin\Debug\net6.0\Movie Database TA.exe
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Movie Database TA\Movie Database TA\bin\Debug\net6.0\Movie Database TA.deps.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Movie Database TA\Movie Database TA\bin\Debug\net6.0\Movie Database TA.runtimeconfig.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Movie Database TA\Movie Database TA\bin\Debug\net6.0\Movie Database TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Movie Database TA\Movie Database TA\bin\Debug\net6.0\Movie Database TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Movie Database TA\Movie Database TA\obj\Debug\net6.0\Movie Database TA.csproj.AssemblyReference.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Movie Database TA\Movie Database TA\obj\Debug\net6.0\Movie Database TA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Movie Database TA\Movie Database TA\obj\Debug\net6.0\Movie Database TA.AssemblyInfoInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Movie Database TA\Movie Database TA\obj\Debug\net6.0\Movie Database TA.AssemblyInfo.cs
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Movie Database TA\Movie Database TA\obj\Debug\net6.0\Movie Database TA.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Movie Database TA\Movie Database TA\obj\Debug\net6.0\Movie Database TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Movie Database TA\Movie Database TA\obj\Debug\net6.0\refint\Movie Database TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Movie Database TA\Movie Database TA\obj\Debug\net6.0\Movie Database TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Movie Database TA\Movie Database TA\obj\Debug\net6.0\Movie Database TA.genruntimeconfig.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Movie Database TA\Movie Database TA\obj\Debug\net6.0\ref\Movie Database TA.dll
